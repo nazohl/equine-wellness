@@ -1558,7 +1558,9 @@ select:focus {
     position: relative;
     display: inline-block;
     float: left;
-    padding: 13px 0px 5px 35px;
+    margin-top: 20px;
+    margin-left: 30px;
+ 
 }
 .header-lawer-left .logo a{
     position: relative;
@@ -2196,7 +2198,7 @@ select:focus {
     position: relative;
     display: block;
     background: #ffffff;
-    padding: 0px 0 180px;
+    padding: 0px 0 50px;
 }
 
 .about-style1-image-box {
